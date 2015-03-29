@@ -129,7 +129,9 @@ amount of time in the pre-coding period as well.
 I'm a first year graduate student at the Faculty of Engineering in Rijeka, Croatia, pursuing a degree in Electrical Engineering. My studies are mostly in
 automation and robotics, though I strive to engage myself equally in Linux development and open source software in general. 
 
-Previously I've contributed to the Mozilla initiative and plan to continue doing so in the future. Most of the software work I've done is in OpenCV tracing algorithms in Python and C++ and ARM programming in C, with a bit of simulation in Matlab and machine learning in Octave.
+Previously I've contributed to the Mozilla initiative and plan to continue doing so in the future.
+Most of the software work I've done is in OpenCV object tracking algorithms in Python and C++ and ARM programming in C, 
+with a bit of simulation in Matlab and machine learning in Octave.
 From the software and hardware projects I have worked on, 
 recent ones include OpenCV tracking and localization algorithms for a quadrotor
 flight control system and developing an ARM based on-board autonomous flight interface for the Parrot AR.Drone.
